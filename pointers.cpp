@@ -2,8 +2,6 @@
 // It finds the area of a rectangle given length and width
 // It prints the length and width in ascending order
 
-// Anton Luna
-// CSIS-113A-3780 
 // Last Modified Date: 5/8/2024
 #include <iostream>
 using namespace std;
