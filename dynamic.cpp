@@ -1,7 +1,5 @@
 // This program demonstrates the use of dynamic variables
 
-// Anton Luna
-// CSIS-113A-3780 
 // Last Modified Date: 5/8/2024
 
 #include <iostream>
